@@ -47,5 +47,11 @@
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/4ac5f870-1d16-4b40-b4ed-dcb5ae0d2d2a)
 
 - Le serveur DHCP lui a bien fournie une adresse IP réservée :
+  
+![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/1e90e237-942e-4bdd-9d50-8c6383c1b7cc)
 
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/91e87ded-4df2-4996-b3d0-a8079fca58ff)
+
+- Après une **ipconfig /release** et une **ipconfig /renew**, la machine cliente obtient la même adresse IP.
+
+![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/6053f2c1-e20d-43e2-80e9-a68c0f0af5bd)
