@@ -46,7 +46,7 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/4ac5f870-1d16-4b40-b4ed-dcb5ae0d2d2a)
 
-- Le serveur DHCP lui a bien fournie une adresse IP réservée avec les étapes du processus DORA  (DHCPOFFER, HCP OFFER, DHCP REQUEST, DHCPACK) :
+- Le serveur DHCP lui a bien fourni une adresse IP réservée avec les étapes du processus DORA  (DHCPOFFER, HCP OFFER, DHCP REQUEST, DHCPACK) :
   
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/1e90e237-942e-4bdd-9d50-8c6383c1b7cc)
 
