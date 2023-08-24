@@ -14,7 +14,7 @@
 
 ***
 
-✔ Atribuer une adresse IP au serveur DHCP :
+✔ Attribuer une adresse IP au serveur DHCP :
 
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/133bb725-e638-4a3e-98af-83f686c2bcbd)
 
