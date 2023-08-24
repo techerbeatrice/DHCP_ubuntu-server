@@ -42,7 +42,7 @@
 
 ✔ Démarrer le serveur DHCP avec la commande suivante :
 
-#### $ service isc-dhcp-server start et $ service isc-dhcp-server status
+#### $ service isc-dhcp-server start && service isc-dhcp-server status
 
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/6d8ef047-697e-45df-9027-bbff194f8c7b)
 
@@ -52,7 +52,7 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/4ac5f870-1d16-4b40-b4ed-dcb5ae0d2d2a)
 
-- Le serveur DHCP lui a bien fourni une adresse IP réservée passant par les étapes du processus DORA  (DHCP DISCOVER, DHCP OFFER, DHCP REQUEST, DHCP ACK) :
+- Le serveur DHCP lui a bien fourni une adresse IP réservée en passant par les étapes du processus DORA  (DHCP DISCOVER, DHCP OFFER, DHCP REQUEST, DHCP ACK) :
   
 ![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/1e90e237-942e-4bdd-9d50-8c6383c1b7cc)
 
