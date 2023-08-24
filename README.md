@@ -14,6 +14,12 @@
 
 ***
 
+✔ Atribuer une adresse IP au serveur DHCP :
+
+![image](https://github.com/techerbeatrice/DHCP_ubuntu-server/assets/138071140/133bb725-e638-4a3e-98af-83f686c2bcbd)
+
+***
+
 ✔ Modifier le fichier de configuration selon vos besoins en spécifiant les paramètres DHCP, pour cela éditer dans le fichier de configuration DHCP avec la commande :
    
 #### $ sudo nano /etc/dhcp/dhcpd.conf
